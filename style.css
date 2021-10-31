@@ -1,0 +1,47 @@
+button{
+    background-color: rgb(4, 147, 187);
+    color: white;
+    float: right;
+    height: 50px;
+    width: 250px;
+    margin: 100 px;
+}
+h1{
+    text-align: center;
+}
+img{
+    margin: 0 auto;
+}
+.table1{
+    width: 400px;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(8px); 
+    border-right: 1px solid whitesmoke;
+    margin: 20px;
+    border-radius: 20px;
+}
+.table2{
+    margin-left: 100px;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(8px); 
+    border-right: 1px solid whitesmoke;
+    vertical-align: top;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+td, tr{
+    width: 500px;
+}
+body{
+    background: no-repeat;
+    background-image: url(./1618531437_46-funart_pro-p-oboi-fon-anime-fon-zakat-47.jpg);
+}
+img{
+    height: 200px;
+    border-radius: 50px;
+}
+.img1{
+    justify-content: center;
+    display: flex;
+}
+    
